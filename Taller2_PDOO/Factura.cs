@@ -10,14 +10,15 @@ namespace Taller2_PDOO
     {
         private string fecha;
         private string estado_actual;
-        private string estado_pago:
+        private string medio_pago;
         private float iva;
         private float total;
         private Producto[] canasta;
         private int indice;
         private int numero_factura;
 
-        public Factura(){
+        public Factura()
+        {
 
         }
 
@@ -26,24 +27,27 @@ namespace Taller2_PDOO
             canasta = new Producto[cantidad_productos];
         }
 
-        public Factura(string fecha, int estado_actual, string medio_pago, float )
+        public Factura(string fecha, string estado_actual, string medio_pago, float iva, float total)
+        {
             this.fecha = fecha;
             this.estado_actual = estado_actual;
             this.medio_pago = medio_pago;
             this.iva = iva;
             this.total = total;
 
-    }
+        }
 
-    public void MostrarProducto(int indice)
-    {
-        int cantidiad = canasta[indice].Cantidad;
-        Console.Write(Utilitario.FormatearDigito(cantidad.ToString()));
-        Utilitario
-        Console.Wrie(Utilitario);
+        public void MostrarProducto(int indice)
+        {
+            int cantidiad = canasta[indice].Cantidad;
+            Console.Write(Utilitario.FormatearDigito(cantidad.ToString()));
+            Utilitario
+        Console.Write(Utilitario);
+            Utilitario.ImprimirEspacios(1);
+            Console.WriteLine(Utilitario.ImprimirEspaciosInicio(canasta[indice].Pro))
         Utilitario.ImprimirEspacios(1);
-        Console.WriteLine(Utilitario.ImprimirEspaciosInicio(canasta[indice].Pro))
-        Utilitario.ImprimirEspacios(1);
-        Console.WriteLine(utilitario.ImprimirEspaciosInicio((canasta[indice]))
+            Console.WriteLine(utilitario.ImprimirEspaciosInicio((canasta[indice]))
+
+        }
     }
 }
