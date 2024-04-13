@@ -8,5 +8,6 @@ namespace Taller2_PDOO
 {
     internal class Mesa
     {
+       
     }
 }
