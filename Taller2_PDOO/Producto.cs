@@ -24,5 +24,18 @@ namespace Taller2_PDOO
         {
 
         }
+
+        public Producto(string nombre, float precio)
+        {
+            this.nombre = nombre;
+            this.precio = precio;
+        }
+
+        public Producto(string nombre, float precio, int cantidad)
+        {
+            this.nombre = nombre;
+            this.cantidad = cantidad;
+            this.precio = precio;
+        }
     }
 }
