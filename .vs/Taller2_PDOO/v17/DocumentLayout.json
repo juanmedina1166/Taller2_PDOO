@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|c:\\users\\user\\desktop\\semestre 3\\taller2_pdoo\\taller2_pdoo\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|solutionrelative:taller2_pdoo\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|c:\\users\\user\\desktop\\semestre 3\\taller2_pdoo\\taller2_pdoo\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|solutionrelative:taller2_pdoo\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|solutionrelative:taller2_pdoo\\lectorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|c:\\users\\user\\desktop\\semestre 3\\taller2_pdoo\\taller2_pdoo\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|solutionrelative:taller2_pdoo\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|c:\\users\\user\\desktop\\semestre 3\\taller2_pdoo\\taller2_pdoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{735BC440-619D-4E07-B9B9-B25A1D726193}|Taller2_PDOO\\Taller2_PDOO.csproj|solutionrelative:taller2_pdoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Mesa.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Mesa.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Mesa.cs",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "Taller2_PDOO\\Mesa.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:28:45.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T19:28:45.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Debuger.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Debuger.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Debuger.cs",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "Taller2_PDOO\\Debuger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:25:24.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T19:25:24.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Utilitario.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Utilitario.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Utilitario.cs",
@@ -92,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UI.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\UI.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\UI.cs",
@@ -104,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LectorArchivo.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\LectorArchivo.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\LectorArchivo.cs",
@@ -116,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Factura.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Factura.cs",
@@ -128,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Producto.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Producto.cs",
@@ -140,19 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Constantes.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Constantes.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Constantes.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Constantes.cs",
               "RelativeToolTip": "Taller2_PDOO\\Constantes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:18:06.195Z"
+              "WhenOpened": "2024-04-07T19:18:06.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Caja.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Caja.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Caja.cs",
