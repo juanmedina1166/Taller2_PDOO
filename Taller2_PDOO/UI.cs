@@ -8,48 +8,52 @@ namespace Taller2_PDOO
 {
     internal class UI
     {
-        internal class MenuPrograma
-        {
-            public void ImprimirLogo()
-            {
-            }
+        public static Caja caja;
 
-            public void ImprimirTitulo()
+        public static void BuscarFactura()
+        {
+            int id_factura;
+            do
             {
-            }
-            public void ImprimirMenu()
+                Console.WriteLine("  Ingrese el id de la factura solicitada");
+            } while (!int.TryParse(Console.ReadLine(), out id_factura));
+
+            caja.ImprimirFactura(id_factura);
+            Console.ReadKey();
+        }
+
+        public static void PintarCabezoteMenu()
+        {
+
+        }
+
+        public static int Menu(Caja caja)
+        {
+            int opc = 0;
+            UI.caja = caja;
+            //TODO: Personalizar el menu ascii            
+            do
             {
-                ImprimirTitulo();
-                ImprimirLinea(5, "_");
-                ImprimirColumna(10);
-                ImprimirLinea(5, "_");
-            }
-            public void ImprimirLinea(int ancho, string caracter)
-            {
-                string temp = "";
-                for (int i = 0; i < ancho; i++)
+                PintarCabezoteMenu();
+
+                if (int.TryParse(Console.ReadLine(), out opc))
                 {
-                    //Console.Write("texto"); Imprime en la misma linea
-                    //Console.Writeline("Texto"); Imprime y salta de linea
-                    temp += caracter;
-                }
-                Console.WriteLine(temp);
-            }
-            public void ImprimirColumna(int alto)
-            {
-                string temp = "";
-                string caracter = "|";
-                string salto = "\n"; //Secuencua de escape
-                for (int i = 0; i < alto; i++)
-                {
-                    temp += caracter;
-                    if (i + 1 < alto)
+                    if (opc == 1 || opc == 2 || opc == 3 || opc == 4 || opc == 5)
                     {
-                        temp = temp + salto;
+                        if (opc == 4)
+                        {
+                            BuscarFactura();
+                        }
+
                     }
                 }
-                Console.WriteLine(temp);
-            }
+                else
+                {
+                    Console.WriteLine("Error al ingresar la opción");
+                }
+            } while (opc != -1);
+
+            return opc;
         }
     }
 }
