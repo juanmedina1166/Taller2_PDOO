@@ -3559,6 +3559,182 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGOxj2tdUavdys="
 							}
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGO3VGxeqYzhDA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"model": {
+								"$ref": "AAAAAAGO3VGxeqYxpec="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGO3VGxeqY08lQ=",
+									"_parent": {
+										"$ref": "AAAAAAGO3VGxeqYzhDA="
+									},
+									"model": {
+										"$ref": "AAAAAAGO3VGxeqYxpec="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGO3VGxeqY1jVY=",
+											"_parent": {
+												"$ref": "AAAAAAGO3VGxeqY08lQ="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -16,
+											"top": -96,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGO3VGxeqY2Jgw=",
+											"_parent": {
+												"$ref": "AAAAAAGO3VGxeqY08lQ="
+											},
+											"font": "Arial;13;1",
+											"left": 685,
+											"top": 471,
+											"width": 42.919921875,
+											"height": 13,
+											"text": "Caja"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGO3VGxeqY3sVQ=",
+											"_parent": {
+												"$ref": "AAAAAAGO3VGxeqY08lQ="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -16,
+											"top": -96,
+											"width": 73.67724609375,
+											"height": 13,
+											"text": "(from Model)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGO3VGxeqY4wkM=",
+											"_parent": {
+												"$ref": "AAAAAAGO3VGxeqY08lQ="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -16,
+											"top": -96,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 680,
+									"top": 464,
+									"width": 52.919921875,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGO3VGxeqY1jVY="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGO3VGxeqY2Jgw="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGO3VGxeqY3sVQ="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGO3VGxeqY4wkM="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAGO3VGxeqY5WI0=",
+									"_parent": {
+										"$ref": "AAAAAAGO3VGxeqYzhDA="
+									},
+									"model": {
+										"$ref": "AAAAAAGO3VGxeqYxpec="
+									},
+									"font": "Arial;13;0",
+									"left": 680,
+									"top": 489,
+									"width": 52.919921875,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAGO3VGxeqY6Wjw=",
+									"_parent": {
+										"$ref": "AAAAAAGO3VGxeqYzhDA="
+									},
+									"model": {
+										"$ref": "AAAAAAGO3VGxeqYxpec="
+									},
+									"font": "Arial;13;0",
+									"left": 680,
+									"top": 499,
+									"width": 52.919921875,
+									"height": 10
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAGO3VGxeqY7Hc8=",
+									"_parent": {
+										"$ref": "AAAAAAGO3VGxeqYzhDA="
+									},
+									"model": {
+										"$ref": "AAAAAAGO3VGxeqYxpec="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -8,
+									"top": -48,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAGO3VGxeqY8gis=",
+									"_parent": {
+										"$ref": "AAAAAAGO3VGxeqYzhDA="
+									},
+									"model": {
+										"$ref": "AAAAAAGO3VGxeqYxpec="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -8,
+									"top": -48,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 680,
+							"top": 464,
+							"width": 51.919921875,
+							"height": 45,
+							"nameCompartment": {
+								"$ref": "AAAAAAGO3VGxeqY08lQ="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAGO3VGxeqY5WI0="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAGO3VGxeqY6Wjw="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAGO3VGxeqY7Hc8="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAGO3VGxeqY8gis="
+							}
 						}
 					]
 				},
@@ -4251,6 +4427,14 @@
 							]
 						}
 					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGO3VGxeqYxpec=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Caja"
 				}
 			]
 		}
