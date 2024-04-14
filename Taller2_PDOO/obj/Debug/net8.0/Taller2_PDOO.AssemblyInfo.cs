@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller2_PDOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f0c81134302388746f6a91b1600ebaa099052a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b2b6dd7b95eb9ef22d16da149b4f468faaa761e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller2_PDOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller2_PDOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

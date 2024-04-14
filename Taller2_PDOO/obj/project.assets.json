@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
       "projectName": "Taller2_PDOO",
-      "projectPath": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Semestre 3\\Taller2_PDOO\\Taller2_PDOO\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Taller2_PDOO\\Taller2_PDOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

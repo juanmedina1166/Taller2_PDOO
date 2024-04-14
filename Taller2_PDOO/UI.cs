@@ -24,7 +24,40 @@ namespace Taller2_PDOO
 
         public static void PintarCabezoteMenu()
         {
-            //ASSI ART AQUI
+            Console.WriteLine("   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _");
+            Console.WriteLine("  |                                                                                        |");
+            Console.WriteLine("  |        __   ____  _      ____   __  __ __    ___                                       |");
+            Console.WriteLine("  |       /  ] /    || |    |    | /  ]|  |  |  /  _]                                      |");
+            Console.WriteLine("  |      /  / |  o  || |     |  | /  / |  |  | /  [_                                       |");
+            Console.WriteLine("  |     /  /  |     || |___  |  |/  /  |  _  ||    _]                                      |");
+            Console.WriteLine("  |    /   \\_ |  _  ||     | |  /   \\_ |  |  ||   [_                                       |");
+            Console.WriteLine("  |    \\     ||  |  ||     | |  \\     ||  |  ||     |                                      |");
+            Console.WriteLine("  |     \\____||__|__||_____||____\\____||__|__||_____|                                      |");
+            Console.WriteLine("  |                                                                                        |");
+            Console.WriteLine("  |     ____     ___  _____ ______   ____  __ __  ____    ____  ____   ______    ___       |");
+            Console.WriteLine("  |    |    \\   /  _]/ ___/|      | /    ||  |  ||    \\  /    ||    \\ |      |  /  _]      |");
+            Console.WriteLine("  |    |  D  ) /  [_(   \\_ |      ||  o  ||  |  ||  D  )|  o  ||  _  ||      | /  [_       |");
+            Console.WriteLine("  |    |    / |    _]\\__  ||_|  |_||     ||  |  ||    / |     ||  |  ||_|  |_||    _]      |");
+            Console.WriteLine("  |    |    \\ |   [_ /  \\ |  |  |  |  _  ||  :  ||    \\ |  _  ||  |  |  |  |  |   [_       |");
+            Console.WriteLine("  |    |  .  \\|     |\\    |  |  |  |  |  ||     ||  .  \\|  |  ||  |  |  |  |  |     |      |");
+            Console.WriteLine("  |    |__|\\_||_____| \\___|  |__|  |__|__| \\__,_||__|\\_||__|__||__|__|  |__|  |_____|      |");
+            Console.WriteLine("  |                                                                                        |");
+            Console.WriteLine("  |     ____    ____  ____                                                                 |");
+            Console.WriteLine("  |    |    \\  /    ||    \\                                                                |");
+            Console.WriteLine("  |    |  o  )|  o  ||  D  )                                                               |");
+            Console.WriteLine("  |    |     ||     ||    /                                                                 |");
+            Console.WriteLine("  |    |  O  ||  _  ||    \\                                                                |");
+            Console.WriteLine("  |    |     ||  |  ||  .  \\                                                               |");
+            Console.WriteLine("  |    |_____||__|__||__|\\_ |                                                              |");
+            Console.WriteLine("  |                                                                                        |");
+            Console.WriteLine("  |                          Ingrese una opción así:                                       |");
+            Console.WriteLine("  |                           1. Realizar venta                                            |");
+            Console.WriteLine("  |                           2. Operaciones con productos                                 |");
+            Console.WriteLine("  |                           3. Imprimir inventario                                       |");
+            Console.WriteLine("  |                           4. Buscar Factura                                            |");
+            Console.WriteLine("  |                           5. Exportar factura                                          |");
+            Console.WriteLine("  |                          -1. Salir                                                     |");
+            Console.WriteLine("   ````````````````````````````````````````````````````````````````````````````````````````");
         }
 
         public static int Menu(Caja caja)

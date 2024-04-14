@@ -34,7 +34,7 @@ namespace Taller2_PDOO
                 string[] lineas = System.IO.File.ReadAllLines(@"../../archivo/facturas.csv");
 
                 // Display the file contents by using a foreach loop.
-                Debug.Log("Contenido del archivo facturas = ");
+                Debuger.Log("Contenido del archivo facturas = ");
                 facturas = ProcesarLineas(lineas);
 
             }
@@ -64,7 +64,7 @@ namespace Taller2_PDOO
                 //temp[0] Fecha
                 nombres = ProcesarRegistro(temp[1], SEPARADOR_NOMBRES);
                 precios = ProcesarRegistro(temp[2], SEPARADOR_PRECIOS);
-                Debug.Log(i + " " + nombres.Length);
+                Debuger.Log(i + " " + nombres.Length);
                 facturas[i] = new Factura(nombres.Length);
                 facturas[i].AgregarProductos(nombres, precios);
                 facturas[i].Numero_factura = Utilitario.ConvertirEntero(temp[5]);
