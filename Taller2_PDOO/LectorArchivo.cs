@@ -54,16 +54,20 @@ namespace Taller2_PDOO
         {
 
             string[] temp;
-            string[] nombres, precios;
+            string[] nombres, precios,fecha, medio_pago;
+            int[] numero_factura
+         
 
             Factura[] facturas = new Factura[lineas.Length];//Peniente hacer refactoring
 
             for (int i = 1; i < lineas.Length; i++)//Empezamos en 1 para saltarnos el encabezado de la tabla
             {
                 temp = Utilitario.SepararCadena(lineas[i], SEPARADOR_REGISTROS);
-                //temp[0] Fecha
+                fecha = ProcesarRegistro(temp[0])
                 nombres = ProcesarRegistro(temp[1], SEPARADOR_NOMBRES);
                 precios = ProcesarRegistro(temp[2], SEPARADOR_PRECIOS);
+                medio_pago = ProcesarRegistro(temp[0])
+                numero_factura = ProcesarRegistro(temp[0])
                 Debuger.Log(i + " " + nombres.Length);
                 facturas[i] = new Factura(nombres.Length);
                 facturas[i].AgregarProductos(nombres, precios);
