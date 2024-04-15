@@ -32,6 +32,7 @@ namespace Taller2_PDOO
             {
                 Console.WriteLine("El inventario está vacío.");
             }
+        public static void AgregarProducto(string nombre, int cantidad)
         }
         public static void PintarCabezoteMenu()
         {
@@ -91,6 +92,10 @@ namespace Taller2_PDOO
                         if(opc == 3)
                         {
                             ImprimirInventario();
+                        }
+                        if (opc == 2)
+                        {
+                            AgregarProducto();
                         }
                     }
                 }
