@@ -9,6 +9,7 @@ namespace Taller2_PDOO
     internal class UI
     {
         public static Caja caja;
+        public static Inventario inventario;
 
         public static void BuscarFactura()
         {
@@ -21,7 +22,17 @@ namespace Taller2_PDOO
             caja.ImprimirFactura(id_factura);
             Console.ReadKey();
         }
-
+        public static void ImprimirInventario()
+        {
+            if (inventario != null)
+            {
+                inventario.ImprimirInventario();
+            }
+            else
+            {
+                Console.WriteLine("El inventario está vacío.");
+            }
+        }
         public static void PintarCabezoteMenu()
         {
             Console.WriteLine("   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _");
@@ -79,7 +90,7 @@ namespace Taller2_PDOO
                         }
                         if(opc == 3)
                         {
-                            Imprimir_Inventario();
+                            ImprimirInventario();
                         }
                     }
                 }

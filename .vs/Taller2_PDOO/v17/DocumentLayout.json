@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Utilitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\Utilitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\Mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\Inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\LectorArchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\LectorArchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Debuger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\Debuger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Utilitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\Utilitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\Mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\LectorArchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taller2_PDOO\\LectorArchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,37 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Inventario.cs",
               "DocumentMoniker": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Inventario.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Inventario.cs",
               "ToolTip": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Inventario.cs",
               "RelativeToolTip": "Taller2_PDOO\\Inventario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T04:13:06.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Mesa.cs",
               "DocumentMoniker": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Mesa.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Mesa.cs",
               "ToolTip": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Mesa.cs",
               "RelativeToolTip": "Taller2_PDOO\\Mesa.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T19:28:45.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Debuger.cs",
               "DocumentMoniker": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Debuger.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Debuger.cs",
@@ -92,37 +92,38 @@
               "RelativeToolTip": "Taller2_PDOO\\Debuger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:25:24.555Z"
+              "WhenOpened": "2024-04-07T19:25:24.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Utilitario.cs",
               "DocumentMoniker": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Utilitario.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\Utilitario.cs",
               "ToolTip": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Utilitario.cs",
               "RelativeToolTip": "Taller2_PDOO\\Utilitario.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAACIAAAAWAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T19:21:55.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UI.cs",
               "DocumentMoniker": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\UI.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\UI.cs",
               "ToolTip": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\UI.cs",
               "RelativeToolTip": "Taller2_PDOO\\UI.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAFEAAAAyAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T19:19:17.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LectorArchivo.cs",
               "DocumentMoniker": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\LectorArchivo.cs",
               "RelativeDocumentMoniker": "Taller2_PDOO\\LectorArchivo.cs",
