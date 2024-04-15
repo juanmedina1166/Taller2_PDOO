@@ -77,7 +77,10 @@ namespace Taller2_PDOO
                         {
                             BuscarFactura();
                         }
-
+                        if(opc == 3)
+                        {
+                            Imprimir_Inventario();
+                        }
                     }
                 }
                 else
