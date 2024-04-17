@@ -1,0 +1,14 @@
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\Taller2_PDOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\Taller2_PDOO.AssemblyInfoInputs.cache
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\Taller2_PDOO.AssemblyInfo.cs
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\Taller2_PDOO.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\bin\Debug\net8.0\Taller2_PDOO.exe
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\bin\Debug\net8.0\Taller2_PDOO.deps.json
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\bin\Debug\net8.0\Taller2_PDOO.runtimeconfig.json
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\bin\Debug\net8.0\Taller2_PDOO.dll
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\bin\Debug\net8.0\Taller2_PDOO.pdb
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\Taller2_PDOO.dll
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\refint\Taller2_PDOO.dll
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\Taller2_PDOO.pdb
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\Taller2_PDOO.genruntimeconfig.cache
+C:\Users\nicol\Downloads\Taller2_PDOO-main\Taller2_PDOO\obj\Debug\net8.0\ref\Taller2_PDOO.dll
