@@ -10,6 +10,23 @@ namespace Taller2_PDOO
     {
         public static Caja caja;
         public static Inventario inventario;
+        public static void AgregarProducto()
+        {
+            string nombre;
+            int cantidad;
+            do
+            {
+                Console.WriteLine("  Ingrese el nombre del producto");
+                nombre = Console.ReadLine();
+            } while (string.IsNullOrEmpty(nombre));
+
+            do
+            {
+                Console.WriteLine("  Ingrese la cantidad del producto");
+            } while (!int.TryParse(Console.ReadLine(), out cantidad));
+
+            inventario.AgregarProducto(nombre, cantidad);
+        }
 
         public static void BuscarFactura()
         {
@@ -96,6 +113,11 @@ namespace Taller2_PDOO
                         if (opc == 2)
                         {
                             AgregarProducto();
+
+                        }
+                        if (opc == 1)
+                        {
+                            caja.RealizarVenta();
                         }
                     }
                 }

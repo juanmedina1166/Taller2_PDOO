@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Jhonr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
       "projectName": "Taller2_PDOO",
-      "projectPath": "C:\\Users\\User\\Desktop\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Taller2_PDOO\\Taller2_PDOO\\obj\\",
+      "projectPath": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\Taller2_PDOO.csproj",
+      "packagesPath": "C:\\Users\\Jhonr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jhonr\\Documents\\GitHub\\Taller2_PDOO\\Taller2_PDOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jhonr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
